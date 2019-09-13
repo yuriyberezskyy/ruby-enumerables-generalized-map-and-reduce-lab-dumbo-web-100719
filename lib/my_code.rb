@@ -1,1 +1,2 @@
-map{|n| n*(-1)}map{|n| n}
+map{|n| n*(-1)}
+map{|n| n}
