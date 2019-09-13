@@ -13,3 +13,5 @@ end
 def map4(arr)
   arr.map{|n| n ** 2}
 end
+
+def reduce1()
