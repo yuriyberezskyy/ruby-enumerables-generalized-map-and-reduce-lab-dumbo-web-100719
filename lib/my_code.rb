@@ -1,2 +1,4 @@
-map1{|n| n*(-1)}
-map2{|n| n}
+def map1(arr)
+arr.map {|n| n*(-1)}
+end
+#map2{|n| n}
