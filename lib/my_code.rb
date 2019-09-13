@@ -1,4 +1,3 @@
-def map(arr)
-map {|n| n*(-1)}
-map {|n| n}
+def map1(arr)
+  map{|n|*(-1)}
 end
