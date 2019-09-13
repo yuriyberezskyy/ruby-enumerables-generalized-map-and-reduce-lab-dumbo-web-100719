@@ -18,6 +18,6 @@ def reduce1(arr)
   arr.reduce{|first,num| first + num}
 end
 
-def reduce2(arr)
-  arr.reduce(100){|first,num| first + num}
+def reduce2(arr,start)
+  arr.reduce(start){|first,num| first + num}
 end
