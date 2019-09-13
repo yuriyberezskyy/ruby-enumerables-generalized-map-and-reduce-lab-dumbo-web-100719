@@ -1,4 +1,4 @@
 def map(arr)
 map {|n| n*(-1)}
-arr.map {|n| n}
+map {|n| n}
 end
