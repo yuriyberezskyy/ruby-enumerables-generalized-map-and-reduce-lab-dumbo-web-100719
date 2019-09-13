@@ -35,5 +35,5 @@ def reduce5(arr)
 end
 
 def reduce6(arr)
-  arr.reduce(true){|first,num| first || num}
+  arr.reduce(false){|first,num| first || num}
 end
