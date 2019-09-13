@@ -7,4 +7,5 @@ def map2(arr)
 end
 
 def map3(arr)
-  arr.map{
+  arr.map{|n| * 2}
+end
