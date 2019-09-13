@@ -1,2 +1,1 @@
-arr.map{|n| n*(-1)}
-dune.map{|n| n}
+map{|n| n*(-1)}map{|n| n}
