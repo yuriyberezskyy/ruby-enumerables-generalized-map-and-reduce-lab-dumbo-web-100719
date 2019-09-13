@@ -21,3 +21,7 @@ end
 def reduce2(arr,start)
   arr.reduce(start){|first,num| first + num}
 end
+
+def reduce3(arr)
+  arr.reduce{|first,num| first == num}
+end
