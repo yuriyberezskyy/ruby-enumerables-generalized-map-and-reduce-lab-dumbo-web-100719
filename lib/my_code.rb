@@ -33,3 +33,6 @@ end
 def reduce5(arr)
   arr.reduce(nil){|first,num| first || num}
 end
+
+def reduce6(arr)
+  arr.
