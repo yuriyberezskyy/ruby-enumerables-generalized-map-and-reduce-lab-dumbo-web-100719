@@ -29,4 +29,6 @@ end
 def reduce4(arr)
   arr.reduce(false){|first,num| first && num}
 end  
-  
+
+def reduce5(arr)
+  arr.reduce
