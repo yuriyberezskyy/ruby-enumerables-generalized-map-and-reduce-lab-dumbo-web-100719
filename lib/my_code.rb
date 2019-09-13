@@ -5,3 +5,6 @@ end
 def map2(arr)
   arr.map{|n| n}
 end
+
+def map3(arr)
+  arr.map{
