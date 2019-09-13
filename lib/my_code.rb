@@ -1,6 +1,4 @@
-def map(arr)
-  arr.map{|n| n*(-1)}
-end
+arr.map{|n| n*(-1)}
 
 def map(dune)
    dune.map{|n| n}
