@@ -3,5 +3,5 @@ def map(arr)
 end
 
 def dune(arr)
-   arr.map{|n| n}
+   arr.dune{|n| n}
 end
