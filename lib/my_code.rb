@@ -17,3 +17,4 @@ end
 def reduce1(arr)
   arr.reduce{|first,num| first + num}
 end
+
